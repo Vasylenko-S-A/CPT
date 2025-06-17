@@ -1,4 +1,4 @@
-package es.mobiledev.crt.ui.theme
+package es.mobiledev.cpt.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
