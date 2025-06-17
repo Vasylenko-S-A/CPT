@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "es.mobiledev.crt"
+    namespace = "es.mobiledev.cpt"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "es.mobiledev.crt"
+        applicationId = "es.mobiledev.cpt"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

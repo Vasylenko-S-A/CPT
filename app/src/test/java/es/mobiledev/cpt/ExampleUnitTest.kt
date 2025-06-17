@@ -1,4 +1,4 @@
-package es.mobiledev.crt
+package es.mobiledev.cpt
 
 import org.junit.Test
 
